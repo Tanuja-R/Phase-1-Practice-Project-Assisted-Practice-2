@@ -63,7 +63,7 @@ public static void main(String[] args)
            			temp = new Node(arr[i]); 
             			list.sortedInsert(temp); 
         		} 
-list.printList(); 
+list.printList();
     	}		 
 }
 
