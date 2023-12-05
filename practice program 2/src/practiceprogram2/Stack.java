@@ -50,4 +50,3 @@ int pop()
         		System.out.println(s.pop() + " Popped from stack"); 
     	}
 } 	
-
